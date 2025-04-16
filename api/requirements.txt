@@ -6,5 +6,5 @@ redis>=4.5.0
 requests>=2.31.0
 tenacity>=8.2.0
 llama-index-embeddings-openai
-flask-cors==3.0.10
+flask-cors==4.0.2
 flask-limiter==3.3.0
